@@ -1,0 +1,6 @@
+cmake
+optimum[exporters]
+onnx
+onnxruntime
+transformers
+onnxruntime-tools
